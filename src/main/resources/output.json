@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "graph_id": 1,
+      "vertices": 5,
+      "edges": 7,
+      "prim_total_cost": 16,
+      "kruskal_total_cost": 16,
+      "prim_time_ms": 0.881375,
+      "kruskal_time_ms": 0.378708,
+      "prim_operations": 40,
+      "kruskal_operations": 44
+    },
+    {
+      "graph_id": 2,
+      "vertices": 4,
+      "edges": 5,
+      "prim_total_cost": 6,
+      "kruskal_total_cost": 6,
+      "prim_time_ms": 0.032334,
+      "kruskal_time_ms": 0.011666,
+      "prim_operations": 29,
+      "kruskal_operations": 28
+    }
+  ]
+}
